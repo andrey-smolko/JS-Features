@@ -1,0 +1,1 @@
+**Property lookup** in JavaScript looks within an object's own properties and, if the property name is not found, it looks within the special object property `__proto__`. This continues recursively; the process is called **"lookup in the prototype chain"**.
